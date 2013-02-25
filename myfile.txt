@@ -1,2 +1,2 @@
 myfile original
-insert #2 line
+insert #2 line change by 2
